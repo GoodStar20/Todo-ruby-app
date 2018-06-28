@@ -1,0 +1,15 @@
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/cg-r/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180628-7563-12zvpvd.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20180628-7563-ocxeqo

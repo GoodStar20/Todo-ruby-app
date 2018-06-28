@@ -1,0 +1,19 @@
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/cg-r/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180628-7563-1qo3c60.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Volumes/User/workspace/Ruby_on_Rails/Todo-ruby-app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20180628-7563-16q20v4/byebug
