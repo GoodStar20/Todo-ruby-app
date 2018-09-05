@@ -1,4 +1,4 @@
-# Chatting App
+# Todolist APP
 
 A web application Todolist sample using Ruby on Rails.
 
