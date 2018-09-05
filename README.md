@@ -1,24 +1,14 @@
-# README
+# Chatting App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web application Todolist sample using Ruby on Rails.
 
-Things you may want to cover:
+### Run the App
 
-* Ruby version
+```bash
+$ cd .
+$ rails server
+```
 
-* System dependencies
+By default, you can visit the API in your web browser at `http://localhost:3000`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![untitled](https://user-images.githubusercontent.com/39380399/45087789-ad16b980-b139-11e8-935d-47d35f4afd31.png)
